@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+
+# Archivos de entorno
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+#Sessions
+
+bot_sessions/
+bot.qr.png
+baileys.log
+core.class.log
+queue.class.log
+bot.qr.png
